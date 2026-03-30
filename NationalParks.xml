@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NationalParks
+    xmlns="http://tempuri.org/XMLSchema.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://tempuri.org/XMLSchema.xsd NationalParks.xsd">
+	<NationalPark>
+		<ParkName>Papago Park</ParkName>
+		<Phone>(480) 350-5200</Phone>
+		<Address>
+			<Number>625</Number>
+			<Street>N Galvin Pkwy</Street>
+			<City>Phoenix</City>
+			<State>AZ</State>
+			<Zipcode>85008</Zipcode>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<ParkName>Grand Canyon National Park</ParkName>
+		<Phone>(928) 638-7888</Phone>
+		<Address>
+			<Number>20</Number>
+			<Street>S Entrance Rd</Street>
+			<City>Grand Canyon Village</City>
+			<State>AZ</State>
+			<Zipcode>86023</Zipcode>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<ParkName>Yellowstone National Park</ParkName>
+		<Phone>(307) 344-7381</Phone>
+		<Address>
+			<Number>2</Number>
+			<Street>Officers Row</Street>
+			<City>Yellowstone National Park</City>
+			<State>WY</State>
+			<Zipcode>82190</Zipcode>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<ParkName>Yosemite National Park</ParkName>
+		<Phone>(209) 372-0200</Phone>
+		<Address>
+			<Number>9035</Number>
+			<Street>Village Dr</Street>
+			<City>Yosemite Valley</City>
+			<State>CA</State>
+			<Zipcode>95389</Zipcode>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<ParkName>Zion National Park</ParkName>
+		<Phone>(435) 772-3256</Phone>
+		<Address>
+			<Number>1</Number>
+			<Street>Zion Park Blvd</Street>
+			<City>Springdale</City>
+			<State>UT</State>
+			<Zipcode>84767</Zipcode>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<ParkName>Rocky Mountain National Park</ParkName>
+		<Phone>(970) 586-1206</Phone>
+		<Address>
+			<Number>1000</Number>
+			<Street>US-36</Street>
+			<City>Estes Park</City>
+			<State>CO</State>
+			<Zipcode>80517</Zipcode>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<ParkName>Great Smoky Mountains National Park</ParkName>
+		<Phone>(865) 436-1200</Phone>
+		<Address>
+			<Number>107</Number>
+			<Street>Park Headquarters Rd</Street>
+			<City>Gatlinburg</City>
+			<State>TN</State>
+			<Zipcode>37738</Zipcode>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<ParkName>Acadia National Park</ParkName>
+		<Phone>(207) 288-3338</Phone>
+		<Address>
+			<Number>25</Number>
+			<Street>Visitor Center Rd</Street>
+			<City>Bar Harbor</City>
+			<State>ME</State>
+			<Zipcode>04609</Zipcode>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<ParkName>Olympic National Park</ParkName>
+		<Phone>(360) 565-3130</Phone>
+		<Address>
+			<Number>3002</Number>
+			<Street>Mount Angeles Rd</Street>
+			<City>Port Angeles</City>
+			<State>WA</State>
+			<Zipcode>98362</Zipcode>
+		</Address>
+	</NationalPark>
+	<NationalPark>
+		<ParkName>Joshua Tree National Park</ParkName>
+		<Phone>(760) 367-5500</Phone>
+		<Address>
+			<Number>74485</Number>
+			<Street>National Park Dr</Street>
+			<City>Twentynine Palms</City>
+			<State>CA</State>
+			<Zipcode>92277</Zipcode>
+		</Address>
+	</NationalPark>
+</NationalParks>
